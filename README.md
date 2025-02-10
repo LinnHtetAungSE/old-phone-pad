@@ -15,6 +15,7 @@ Each number key on the mobile keypad corresponds to a series of letters, as show
 
 | Key | Letters |
 | --- | ------- |
+| 1   | &, ', ( |
 | 2   | A, B, C |
 | 3   | D, E, F |
 | 4   | G, H, I |
