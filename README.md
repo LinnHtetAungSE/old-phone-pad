@@ -32,7 +32,7 @@ The backspace key (`*`) removes the last character entered, and the hash key (`#
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/OldPhonePadCodeChallange.git
+    git clone https://github.com/LinnHtetAungSE/old-phone-pad.git
     ```
 2. Open the project in your preferred C# development environment.
 3. Compile and run the program.
